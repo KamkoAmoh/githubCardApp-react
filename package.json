@@ -1,0 +1,22 @@
+{
+  "name": "githubcardapp-react",
+  "version": "1.0.0",
+  "description": "Github Card App using React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamkoAmoh/githubCardApp-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamkoAmoh/githubCardApp-react/issues"
+  },
+  "homepage": "https://github.com/KamkoAmoh/githubCardApp-react#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
